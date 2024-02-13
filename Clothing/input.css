@@ -39,5 +39,41 @@
 
 .navbar ul :hover{
    text-decoration: underline;
+}
+
+.logo{
+    font-weight: 700;
+    font-size: x-large;
+    font-style: italic;
+    color: blanchedalmond;
+
+}
+
+.box{
+    background: rgb(4, 138, 186); color: white;
+    width: 280px;
+    height: 280px;
+    border: 15px solid white;
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+   
+   
+
+}
+.box2{
+    width: 380px;
+    height: 380px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin: auto;
+    transform:translateX(-15px)
   
+}
+.text{
+    font-size: 170px;
+  margin-top: 80px;
+ transform: translateX(-100px);
+font-style: italic;
+color: blanchedalmond;
 }
