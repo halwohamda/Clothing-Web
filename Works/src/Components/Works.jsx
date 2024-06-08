@@ -20,22 +20,23 @@ const Works = () => {
      <button className='mt-10 px-6 py-1 border-teal-700 bg-white hover:text-white transition-all  rounded-lg border-2 text-teal-700   hover:bg-teal-600 '>View All</button>
      </div>
     </div>
- </div>
-
-</div>
-
+    
 <div className="flex w-full items-center md:flex-row justify-center mt-8 gap-8  flex-col ">
     
     <div className=" bg-slate-200 p-[15px] rounded-md" >
         <img src={Doctor} alt="" className='w-[250px] h-[150px]' />
         </div>
-        
-     <div className="gap-5">
+        <div className="gap-5">
      <h3 className='font-bold  text-teal-700'>Qur'an Memorizing</h3>
      <p>Lorem ipsum dolor sit, amet consectetur <br /> adipisicing elit. Repell</p>
      <button className='mt-10 px-6 py-1 border-teal-700 bg-white hover:text-white transition-all  rounded-lg border-2 text-teal-700   hover:bg-teal-600 '>View All</button>
      </div>
+    
      </div>
+ </div>
+
+</div>
+
 </div>
     
   )
