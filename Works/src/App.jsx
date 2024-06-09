@@ -1,6 +1,7 @@
 import React from 'react'
 import Works from './Components/Works'
-import Portfolio from './Components/Portfolio'
+import Contact from './Components/Contact'
+
 
 const App = () => {
   return (
@@ -9,9 +10,10 @@ const App = () => {
     <div className="Works">
     <Works/>
     </div>
-    <div className="portfolio">
-      <Portfolio/>
+    <div className="contact">
+      <Contact/>
     </div>
+  
    </main>
     </>
   )
