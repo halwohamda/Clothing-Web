@@ -9,7 +9,7 @@ const Works = () => {
          <h1 className='font-bold text-3xl text-teal-700 mt-5'>Our Project's</h1>
          <p className='mt-3'>Lorem ipsum dolor sit amet consectetur adip <br /> a nemo iste placeat.</p>
  
-    <div className="flex w-full items-center md:flex-row justify-center flex-col gap-8 mt-8  ">
+    <div className="flex w-full items-center md:flex-row justify-center flex-col gap-8 mt-8">
         <div className=" p-[15px] rounded-md " >
         <img src={masxaf} alt="" className='w-[250px] h-[150px]' />
         </div>

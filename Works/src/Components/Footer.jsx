@@ -41,9 +41,9 @@ const Footer = () => {
       <a href="#">< FaXTwitter/></a>
       </div>
       <div className=" gap-9 flex md:flex-row flex-col ">
-        <a href="">Terms</a>
-        <a href="">Privacy</a>
-        <a href="">Cookies</a>
+        <a href="" className='hover:text-teal-400'>Terms</a>
+        <a href="" className='hover:text-teal-400'>Privacy</a>
+        <a href="" className='hover:text-teal-400'>Cookies</a>
       </div>
 
       </div>
