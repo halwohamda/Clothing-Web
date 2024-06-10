@@ -4,9 +4,9 @@ import Doctor from '../../public/Doctor.jpg'
 const Works = () => {
   return (
 
-<div className=' w-full  mt-6 text-center  md:flex-row items-center'>
+<div className=' w-full  mt-6 text-center  md:flexr-row items-cente'>
      <div className='gap-4   '>
-         <h1 className='font-bold text-3xl text-teal-700'>Our Project's</h1>
+         <h1 className='font-bold text-3xl text-teal-700 mt-5'>Our Project's</h1>
          <p className='mt-3'>Lorem ipsum dolor sit amet consectetur adip <br /> a nemo iste placeat.</p>
  
     <div className="flex w-full items-center md:flex-row justify-center flex-col gap-8 mt-8  ">
@@ -41,4 +41,4 @@ const Works = () => {
   )
 }
 
-export default Works
+export default Works;
